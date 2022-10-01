@@ -2,10 +2,10 @@
 
 ![alt text](https://github.com/LuizRoss/modern-residence/blob/main/front-view.jpg?raw=true)
 
-Este projeto é uma residência moderna estilo sobrado com possibilidade de ampliação, que pode ser utilizado como ponto comercial no térreo e residencia no pavimento superior. Ele contempla:
+This project is a modern townhouse style residence with the possibility of expansion, which can be used as a commercial point on the ground floor and a residence on the upper floor. It contemplates:
 
-* pergolado em concreto armado na garagem;
-* área verde;
-* preceitos do modernismo;
-* ripado de madeira;
-* sacada com guarda corpo envidraçado.
+* reinforced concrete pergola in the garage;
+* green area;
+* modern style concepts;
+* wood slat;
+* balcony with glazed guardrail.
